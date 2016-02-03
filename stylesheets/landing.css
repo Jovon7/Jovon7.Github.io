@@ -16,6 +16,7 @@ HEADER
 .portrait{
     max-width:auto;
     max-height:250px;
+    background-color: #328EE8;
 }
 
 .jumbotron{
@@ -23,6 +24,7 @@ HEADER
     margin-bottom:10px;
     height:500px;
     padding-top:50px;
+    background: url('http://noupe.com/img/beautiful-background-20.jpg')
 }
 
 .portrait_name{
@@ -32,17 +34,22 @@ HEADER
     border-radius:20px;
 }
 
+
 /**********************************
 MAIN CONTENT
 ***********************************/
 .thumbnail_space{
     max-width:90%;
     margin:0 auto;
+     background: url('http://noupe.com/img/beautiful-background-20.jpg')
+     background-color: #328EE8;
+    
 }
 
 .thumbnail_image{
   max-height:200px;
   max-width:242px;
+  background-color: #328EE8;
 }
 
 article{
@@ -52,9 +59,18 @@ article{
     border-radius:10px;
     margin-bottom:10px;
     font-family: 'lobster', cursive;
+    background-color: #328EE8;
     
 }
+.body{
+    background-color: #328EE8;
+}
 
+.art{
+    
+     background-color: #328EE8;
+    
+}
 /**********************************
 FOOTER - Layout and Sizing
 ***********************************/
@@ -88,6 +104,7 @@ Color 1:
 
 article{
     background:#eee;
+    background-color: #328EE8;
 }
 
 footer{
@@ -95,10 +112,11 @@ footer{
 }
 
 .jumbotron{
-  background: url('http://noupe.com/img/beautiful-background-20.jpg') no-repeat center;
+  background: url('http://noupe.com/img/beautiful-background-20.jpg');
   background-size: cover;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+    background-color: #328EE8;
 }
