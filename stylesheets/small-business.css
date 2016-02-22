@@ -5,15 +5,16 @@
  */
 
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    padding-top: 70px;
+    background-color:#81B3BE;/* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    margin-right:50px;
 }
 
-.navbar-fixed-top .nav {
-    padding: 15px 0;
-}
 
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
+     background image: url('http://noupe.com/img/beautiful-background-20.jpg')
+     
 }
 
 footer {
@@ -27,5 +28,7 @@ footer {
 
     .navbar-fixed-top .navbar-brand {
         padding: 15px 0;
+    {
+.art{
+ background-color:#81B3BE;
     }
-}
