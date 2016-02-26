@@ -6,7 +6,7 @@
 
 body {
     padding-top: 70px;
-    background-color:#81B3BE;/* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    background-color:#328EE8;/* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
     margin-right:50px;
 }
 
@@ -29,6 +29,6 @@ footer {
     .navbar-fixed-top .navbar-brand {
         padding: 15px 0;
     {
-.art{
+art{
  background-color:#81B3BE;
     }
